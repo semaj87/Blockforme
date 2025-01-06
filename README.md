@@ -1,4 +1,4 @@
-# <u>Damazon</u>
+# <u>Blockforme</u>
 
 This is a basic web3 e-commerce project using Solidity
 
